@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/SamuelSSan28/exemplo-travis-ci.svg?branch=main)](https://travis-ci.com/SamuelSSan28/exemplo-travis-ci)
+[![Build Status](https://travis-ci.com/SamuelSSan28/exemplo-travis-ci.svg?branch=master)](https://travis-ci.com/SamuelSSan28/exemplo-travis-ci)
 
 # Getting Started with Travis CI
 
