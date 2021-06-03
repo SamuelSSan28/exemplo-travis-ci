@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/exemplo-travis-ci/static/css/main.b3916d8f.chunk.css",
+    "main.js": "/exemplo-travis-ci/static/js/main.fc4168f3.chunk.js",
+    "main.js.map": "/exemplo-travis-ci/static/js/main.fc4168f3.chunk.js.map",
+    "runtime-main.js": "/exemplo-travis-ci/static/js/runtime-main.fd723c55.js",
+    "runtime-main.js.map": "/exemplo-travis-ci/static/js/runtime-main.fd723c55.js.map",
+    "static/js/2.42874207.chunk.js": "/exemplo-travis-ci/static/js/2.42874207.chunk.js",
+    "static/js/2.42874207.chunk.js.map": "/exemplo-travis-ci/static/js/2.42874207.chunk.js.map",
+    "index.html": "/exemplo-travis-ci/index.html",
+    "static/css/main.b3916d8f.chunk.css.map": "/exemplo-travis-ci/static/css/main.b3916d8f.chunk.css.map",
+    "static/js/2.42874207.chunk.js.LICENSE.txt": "/exemplo-travis-ci/static/js/2.42874207.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd723c55.js",
+    "static/js/2.42874207.chunk.js",
+    "static/css/main.b3916d8f.chunk.css",
+    "static/js/main.fc4168f3.chunk.js"
+  ]
+}
