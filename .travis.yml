@@ -16,7 +16,7 @@ script:
 deploy:
   provider: pages
   skip-cleanup: true
-  github-token: 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  
+  github-token: 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  
   local_dir: build
   keep-history: true
   on:
